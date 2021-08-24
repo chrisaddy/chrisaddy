@@ -3,9 +3,10 @@
 I'm a machine learning engineer fascinated by the ability of `software+data` to solve real problems. I love writing in
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="R" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <img align="center" alt="python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="r" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="rust" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
+  <a href="https://nim-lang.org"><img align="center" alt="nim" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg"></a>
 </div><br>
 
 to solve problems in
