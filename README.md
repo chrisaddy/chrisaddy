@@ -21,7 +21,7 @@ I'm a big fan of (in no particular order)
   <img align="center" alt="fastapi" height="50" width="100" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-teal-vector.svg">
   <img align="center" alt="flask" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="numpy" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="numpy" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg">
+  <img align="center" alt="pytorch" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg">
   <img align="center" alt="tensorflow" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
   <img align="center" alt="typer" height="50" width="60" src="https://raw.githubusercontent.com/tiangolo/typer/master/docs/img/icon-black.svg">
   <img align="center" alt="vim" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
