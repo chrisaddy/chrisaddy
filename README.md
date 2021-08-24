@@ -17,7 +17,8 @@ to solve problems in
 I'm a big fan of (in no particular order)
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg">
+  <img align="center" alt="circleci" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg">
+  <img align="center" alt="docker" height="50" width="60" src="https://raw.githubusercontent.com/docker/docker.github.io/master/images/engine.svg">
   <img align="center" alt="fastapi" height="50" width="100" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-teal-vector.svg">
   <img align="center" alt="flask" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="numpy" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
