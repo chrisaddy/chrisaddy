@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 
 📫 How to reach me: chris.william.addy@gmail.com
 
+
+<div>
+  <br>
+  <a href="https://github.com/Mendes1302">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mendes1302&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes1302&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
  </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Jupyter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"> </div>
