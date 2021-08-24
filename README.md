@@ -2,10 +2,16 @@
 
 I'm a machine learning engineer fascinated by the ability of `software+data` to solve real problems. I love writing in
 
-> - python
+> - Python
+> - Nim
 > - R
 > - Rust
-> - nim
+
+to solve problems in
+
+> - sequential learning
+> - NLP
+> - generative models
 
 If you want to chat about these sorts of things **📫 get in touch!**
 
