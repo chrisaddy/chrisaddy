@@ -22,6 +22,7 @@ I'm a big fan of (in no particular order)
   <img align="center" alt="docker" height="50" width="60" src="https://raw.githubusercontent.com/docker/docker.github.io/master/images/engine.svg">
   <img align="center" alt="fastapi" height="50" width="100" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-teal-vector.svg">
   <img align="center" alt="flask" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Jupyter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="numpy" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="pytorch" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg">
   <img align="center" alt="tensorflow" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
@@ -58,11 +59,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/chrisaddy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisaddy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisaddy&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-
-   <img align="center" alt="Jupyter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/chrisaddy/chrisaddy/output/github-contribution-grid-snake.svg)
