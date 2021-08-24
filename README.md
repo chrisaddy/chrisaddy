@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <div>
   <br>
-  <a href="https://github.com/Mendes1302">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mendes1302&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendes1302&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/chrisaddy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrisaddy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisaddy&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
