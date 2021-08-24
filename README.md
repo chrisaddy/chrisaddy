@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-I'm a machine learning engineer fascinated by the ability of software+data to solve real problems. I love 
+I'm a machine learning engineer fascinated by the ability of `software+data` to solve real problems. I love writing in
 
 > - python
+> - R
+> - Rust
 > - nim
 
-*📫 get in touch!*
+If you want to chat about these sorts of things **📫 get in touch!**
 
 <div style="display: inline_block"><br>
   <a href = "mailto:chris.william.addy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
