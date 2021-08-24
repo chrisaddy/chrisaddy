@@ -50,5 +50,5 @@ Here are some ideas to get you started:
    <img align="center" alt="Jupyter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Mendes1302/chrisaddy/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/chrisaddy/chrisaddy/output/github-contribution-grid-snake.svg)
 
