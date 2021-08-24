@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: chris.william.addy@gmail.com
 
 
 <div>
@@ -35,3 +34,6 @@ Here are some ideas to get you started:
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/Mendes1302/Mendes1302/output/github-contribution-grid-snake.svg)
+
+
+📫 How to reach me: <a href = "mailto:chris.william.addy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
