@@ -24,16 +24,17 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisaddy&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-
- </div>
 <div style="display: inline_block"><br>
  <img align="center" alt="Jupyter" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg"> </div>
-<div style="display: inline_block"><br>
-\ <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="R" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/Mendes1302/Mendes1302/output/github-contribution-grid-snake.svg)
 
 
-📫 How to reach me: <a href = "mailto:chris.william.addy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+# 📫 How to reach me: 
+
+<div style="display: inline_block"><br>
+  <a href = "mailto:chris.william.addy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
