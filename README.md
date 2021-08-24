@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+I'm a machine learning engineer fascinated by the ability of software+data to solve real problems. I love 
+
+> - python
+> - nim
+
+*📫 get in touch!*
+
+<div style="display: inline_block"><br>
+  <a href = "mailto:chris.william.addy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/christopheraddy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
+
 <!--
 **chrisaddy/chrisaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,10 +44,3 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://raw.githubusercontent.com/Mendes1302/Mendes1302/output/github-contribution-grid-snake.svg)
 
-
-# 📫 get in touch!
-
-<div style="display: inline_block"><br>
-  <a href = "mailto:chris.william.addy@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/christopheraddy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
