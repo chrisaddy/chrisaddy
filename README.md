@@ -5,12 +5,8 @@ I'm a machine learning engineer fascinated by the ability of `software+data` to 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="R" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
 </div>
-
-> - Python
-> - Nim
-> - R
-> - Rust
 
 to solve problems in
 
