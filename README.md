@@ -14,6 +14,12 @@ to solve problems in
 > - NLP
 > - generative models
 
+I'm a big fan of (in no particular order)
+
+<div style="display: inline_block">
+    <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg">
+</div><br>
+
 If you want to chat about these sorts of things **📫 get in touch!**
 
 <div style="display: inline_block"><br>
