@@ -17,8 +17,9 @@ to solve problems in
 I'm a big fan of (in no particular order)
 
 <div style="display: inline_block">
-    <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg">
-  <img align="center" alt="fastapi" height="50" width="100" src="https://github.com/tiangolo/fastapi/blob/master/docs/en/docs/img/logo-margin/logo-teal-vector.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg">
+  <img align="center" alt="fastapi" height="50" width="100" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-teal-vector.svg">
+  <img align="center" alt="typer" height="50" width="60" src="https://raw.githubusercontent.com/tiangolo/typer/master/docs/img/icon-black.svg">
 </div><br>
 
 If you want to chat about these sorts of things **📫 get in touch!**
