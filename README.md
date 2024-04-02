@@ -4,9 +4,8 @@ I'm a machine learning engineer fascinated by the ability of `software+data` to 
 
 <div style="display: inline_block">
   <a href="https://www.python.org"><img align="center" alt="python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
-  <a href="https://www.r-project.org"><img align="center" alt="r" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg"></a>
-  <a href="https://rust-lang.org"><img align="center" alt="rust" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"></a>
   <a href="https://nim-lang.org"><img align="center" alt="nim" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Nim_logo.svg"></a>
+  <a href="https://github.com/NixOS"><img align="center" alt="nix" height="50" width="60" src="https://avatars.githubusercontent.com/u/487568?s=200&v=4"></a>
 </div><br>
 
 to solve problems in
@@ -18,7 +17,7 @@ to solve problems in
 I'm a big fan of (in no particular order)
 
 <div style="display: inline_block">
-  <img align="center" alt="docker" height="50" width="60" src="https://raw.githubusercontent.com/docker/docker.github.io/master/images/engine.svg">
+  <img align="center" alt="docker" height="50" width="60" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4">
   <img align="center" alt="fastapi" height="50" width="100" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/en/docs/img/logo-teal-vector.svg">
   <img align="center" alt="pytorch" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg">
   <img align="center" alt="typer" height="50" width="60" src="https://raw.githubusercontent.com/tiangolo/typer/master/docs/img/icon-black.svg">
